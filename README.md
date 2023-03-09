@@ -7,3 +7,5 @@ most my web3&2 vulns cann't be public cause of non-disclosure agreement
 [Pwn the Behinder PHP Protocol](https://liriu.life/PHP-5ba36eb0362743ed8fa5588c97325f7e)
 
 [DoS the ckb-sdk](https://github.com/ckb-js/lumos/pull/491)
+
+[solidity Compile panic in 0.8.17: memory access out of bounds](https://github.com/ethereum/solidity/issues/13555)
