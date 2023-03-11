@@ -1,11 +1,5 @@
-most my web3&2 vulns cann't be public cause of non-disclosure agreement
-
-[a fraction of my web2 vulns](https://dweb.link/ipfs/QmQp8P5hzcem6ErFPhcXPgfvzuhzZPp7exV3LHEjmybpkv/web2_vulns_id.txt)
-
-[a button getting rich](https://weirdeth.vercel.app/)
-
-[Pwn the Behinder PHP Protocol](https://liriu.life/PHP-5ba36eb0362743ed8fa5588c97325f7e)
-
-[DoS the ckb-sdk](https://github.com/ckb-js/lumos/pull/491)
-
-[solidity Compile panic in 0.8.17: memory access out of bounds](https://github.com/ethereum/solidity/issues/13555)
+To see the world, things dangerous to come to
+To see behind walls
+To draw closer
+To find each other and to feel
+That is the purpose of LIFE
