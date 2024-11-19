@@ -6,4 +6,4 @@
 
 ❤️ To find each other and to feel
 
-✈️ That is the purpose of [LIFE](https://liriu.life)
+✈️ That is the purpose of LIFE
